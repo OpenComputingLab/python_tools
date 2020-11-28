@@ -1,6 +1,7 @@
 # pandas
 
 kiwisolver
+lxml
 matplotlib
 numpy
 pandas
