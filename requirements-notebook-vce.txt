@@ -6,13 +6,18 @@ jupytext
 jupyter-server-proxy
 nbzip
 
+# Notebook extensions
+jupyter_contrib_nbextensions
+jupyter-wysiwyg
+jupyterthemes
+
 # Utilities
 nbresuse
-#nbgitpuller
+nbgitpuller
 tqdm
 
 #Supported learning
-#nbtutor
+nbtutor
 RISE
 nb-extension-tagstyler
 nb-extension-empinken
