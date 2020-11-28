@@ -1,0 +1,24 @@
+# notebook-vce
+
+# Base environment
+myst-nb
+jupytext
+jupyter-server-proxy
+nbzip
+
+# Notebook extensions
+jupyter_contrib_nbextensions
+jupyter-wysiwyg
+jupyterthemes
+
+# Utilities
+nbresuse
+nbgitpuller
+tqdm
+
+#Supported learning
+nbtutor
+RISE
+nb-extension-tagstyler
+nb-extension-empinken
+nb-cell-execution-status
