@@ -1,0 +1,8 @@
+# pandas
+
+kiwisolver
+matplotlib
+numpy
+pandas
+Pillow
+PyYAML
