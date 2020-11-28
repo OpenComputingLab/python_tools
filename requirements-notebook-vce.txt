@@ -1,4 +1,4 @@
-# ou
+# notebook-vce
 
 # Base environment
 myst-nb
