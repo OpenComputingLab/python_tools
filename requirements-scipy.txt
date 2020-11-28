@@ -1,0 +1,9 @@
+# scipy
+
+h5py
+numexpr
+
+scipy
+scikit_learn
+statsmodels
+tables
